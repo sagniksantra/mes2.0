@@ -11,7 +11,7 @@ import pitchLogo from "./../../assets/logos/2.png";
 import debateLogo from "./../../assets/logos/3.png";
 import moneyLogo from "./../../assets/logos/5.png";
 import panelLogo from "./../../assets/logos/7.png";
-import innovationLogo from "./../../assets/logos/8.png";
+import innovationLogo from "./../../assets/logos/8.jpg";
 import talkLogo from "./../../assets/logos/10.png";
 import workshopLogo from "./../../assets/logos/12.png";
 import bizLogo from "./../../assets/logos/11.png";

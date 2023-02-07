@@ -1,6 +1,7 @@
-/* .speaker {
+.speaker {
     display: flex;
     overflow-x: scroll;
+    justify-content: center;
   }
   
   .speaker-img {
@@ -22,4 +23,4 @@
   
   .speaker::-webkit-scrollbar {
     display: none;
-  } */
+  }

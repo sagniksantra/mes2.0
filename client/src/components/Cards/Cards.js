@@ -10,8 +10,9 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80'
-              text='Event Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+              // src='./../assets/logos/8.jpg'
+              src='https://i.ibb.co/pQdJm7h/8.png'
+              text='Innovation Mela'
               label='Infotainment'
               path='/innovationMela'
             />
