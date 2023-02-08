@@ -13,80 +13,61 @@ function Cards() {
               // src='./../assets/logos/8.jpg'
               src='https://i.ibb.co/pQdJm7h/8.png'
               text='Innovation Mela'
-              label='Infotainment'
               path='/innovationMela'
             />
             <CardItem
-              src='https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80'
-              text='Event abc'
-              label='Marketing'
-              path='/register'
+              //src='https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80'
+              src='https://i.ibb.co/8Kg4Rrc/2.png'
+              text='Pitch Tank'
+              // label='Entrepreneurship'
+              path='/pitchTank'
             />
             <CardItem
-              src='https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80'
-              text='Event 123'
-              label='Consulting'
-              path='/register'
-            />
-          </ul>
-          <ul className='cards__items'>
-            <CardItem
-              src='https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80'
-              text='Event 123'
-              label='Consulting'
-              path='/register'
-            />
-            <CardItem
-              src='https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80'
-              text='Event 456'
-              label='Consulting'
-              path='/register'
-            />
-            <CardItem
-              src='https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80'
-              text='Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
-              label='Genre/topic'
-              path='/register'
+              // src='./../assets/logos/4.jpg'
+              src='https://i.ibb.co/BLTNps4/5.png'
+              text='Money Quest'
+              // label='Consulting'
+              path='/moneyquest'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80'
-              text='Event 123'
-              label='Consulting'
-              path='/register'
+              src='https://i.ibb.co/hL4k7RV/7.png'
+              text='Panel Discussion'
+              // label='Panel Discussion'
+              path='/paneldis'
             />
             <CardItem
-              src='https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80'
-              text='Event 456'
-              label='Consulting'
-              path='/register'
+              src='https://i.ibb.co/VQk9nhs/12.png'
+              text='Workshops      and      Webinars'
+              // label='Consulting'
+              path='/workshop'
             />
             <CardItem
-              src='https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80'
-              text='Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
-              label='Genre/topic'
-              path='/register'
+              src='https://i.ibb.co/sF96SP1/F.png'
+              // label='Genre/topic'
+              text='Fallout'
+              path='/fallout'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80'
-              text='Event 123'
-              label='Consulting'
-              path='/register'
+              src='https://i.ibb.co/FhyLYLy/Moneyball.png'
+              text='Money Ball'
+              // label='Consulting'
+              path='/moneyball'
+            />
+            <CardItem
+              src='https://i.ibb.co/Yjy3N6b/1.png'
+              text='Case Maze'
+              // label='Consulting'
+              path='/casemaze'
             />
             <CardItem
               src='https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80'
-              text='Event 456'
-              label='Consulting'
-              path='/register'
-            />
-            <CardItem
-              src='https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80'
-              text='Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
-              label='Genre/topic'
-              path='/register'
+              text='Informals'
+              // label='Consulting'
+              path='/informals'
             />
           </ul>
         </div>

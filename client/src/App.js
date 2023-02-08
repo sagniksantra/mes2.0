@@ -13,6 +13,15 @@ import Guidelines from "./pages/Guidlelines/Guidelines";
 import InnovationMela from './pages/Events/InnovationMela/InnovationMela';
 import Standup from './pages/Standup/Standup';
 import Team from './pages/Team/Team'
+import PitchTank from './pages/Events/PitchTank/PitchTank';
+import PanelDiscussion from './pages/Events/PanelDiscussion/PanelDiscussion';
+import CaseMaze from './pages/Events/CaseMaze/CaseMaze';
+import Fallout from './pages/Events/Fallout/Fallout';
+import MoneyQuest from './pages/Events/MoneyQuest/MoneyQuest';
+import Moneyball from './pages/Events/Moneyball/Moneyball';
+import Workshop from './pages/Events/Workshop/Workshop';
+import Informals from './pages/Events/Informals/Informals';
+
 function App() {
   axios.defaults.baseURL = process.env.REACT_APP_BASE_URL;
   return (
@@ -43,6 +52,46 @@ function App() {
             exact
             path="/innovationMela"
             element={ <InnovationMela /> }
+          />
+          <Route
+            exact
+            path="/pitchTank"
+            element={ <PitchTank /> }
+          />
+          <Route
+            exact
+            path="/moneyQuest"
+            element={ <MoneyQuest /> }
+          />
+          <Route
+            exact
+            path="/panelDis"
+            element={ <PanelDiscussion /> }
+          />
+          <Route
+            exact
+            path="/casemaze"
+            element={ <CaseMaze /> }
+          />
+          <Route
+            exact
+            path="/fallout"
+            element={ <Fallout /> }
+          />
+          <Route
+            exact
+            path="/moneyball"
+            element={ <Moneyball /> }
+          />
+          <Route
+            exact
+            path="/workshop"
+            element={ <Workshop /> }
+          />
+          <Route
+            exact
+            path="/informals"
+            element={ <Informals /> }
           />
           {/* <Route
             exact

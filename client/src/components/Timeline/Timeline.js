@@ -28,7 +28,7 @@ const Timeline = () => {
                         <h7>14:00 - 16:00</h7>
                     </div>
                     <div className="time-box">
-                        <h5>Workshop name</h5>
+                        <h5>Entrepreneurship Journey</h5>
                         <p>by Arvind Sasikumar</p>
                         <h7>16:30 - 18:00</h7>
                     </div>
@@ -42,6 +42,17 @@ const Timeline = () => {
                         <p>Lokesh Venkataswamy</p>
                         <p>Dr. Tojin T. Eapen</p>
                         <h7>17:00 - 19:00</h7>
+                    </div>
+                </div>
+              </li>
+              <li>
+                <div className="timeline-content">
+                <h2 className="date">20<sup>th  </sup>&nbsp;February 2023</h2>
+                    <div className="time-box">
+                        <h5>EdTech Entrepreneurship</h5>
+                        <p>Vinod Aravindakshan</p>
+                        <p></p>
+                        <h7>16:30 - 18:00</h7>
                     </div>
                 </div>
               </li>
@@ -72,11 +83,15 @@ const Timeline = () => {
                 <h2 className="date">23<sup>rd  </sup>&nbsp;February 2023</h2>
                     <div className="time-box">
                         <h5>Keynote Session</h5>
-                        <p></p>
+                        <p>Abhinav Arora</p>
+                        <h7>16:30 - 18:30</h7>
                     </div>
                     <div className="time-box">
                         <h5>Youth Panel Interaction</h5>
-                        <p></p>
+                        <p>Dhruva Goyal</p>
+                        <p>Anirudh Arun</p>
+                        <p>Rishabh Gupta</p>
+                        <h7>18:00 - 19:30</h7>
                     </div>
                     <div className="time-box">
                         <h5>Case Maze</h5>
@@ -97,10 +112,13 @@ const Timeline = () => {
                     </div>
                     <div className="time-box">
                         <h5>Panel Discussion</h5>
-                        <p></p>
-                    </div>
-                    <div className="time-box">
-                        <h5>Networking Dinner</h5>
+                        <p>Manish D'Souza</p>
+                        <p>Anuj Batra</p>
+                        <p>Leenesh Singh</p>
+                        <p>Rohan Choukkar</p>
+                        <p>Deepak Pareek</p>
+                        <p>Smitha Rao</p>
+                        <h7>18:00 - 19:30</h7>
                     </div>
                 </div>
               </li>

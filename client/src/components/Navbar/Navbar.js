@@ -36,7 +36,7 @@ const Navbar = () => {
                     <a href="/events" class="nav-link">Events</a>
                 </li>
                 <li class="nav-item" onClick={closeNav}>
-                    <a href="/guidelines" class="nav-link">Guidelines</a>
+                    <a href="/guidelines" class="nav-link">Sponsors</a>
                 </li>
                 {/* <li class="nav-item" onClick={closeNav}>
                     <a href="/team" class="nav-link">Team</a>

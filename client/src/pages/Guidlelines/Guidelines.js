@@ -9,7 +9,7 @@ const Guidelines = () => {
     return (
         <div className="guide-container">
             <Navbar />
-            <div className="guide-header">
+            {/* <div className="guide-header">
                 <img src={mes} alt="MES-logo" width="400" height="400"></img>
                 <h1 className="events-head">Event Guidelines</h1> 
                 <Link to="/register">
@@ -65,7 +65,7 @@ const Guidelines = () => {
                         <li>Avoid speaking when another participant is speaking</li>
                     </ul>
                 </div>
-            </div>
+            </div> */}
         </div>
     );
 }
